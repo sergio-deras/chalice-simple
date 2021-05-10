@@ -11,6 +11,7 @@ $ python3 -m pip install chalice httpie
 $ chalice --help
 Usage: chalice [OPTIONS] COMMAND [ARGS]...
 
+$ chalice local
 $ chalice deploy [PROFILE]
 $ chalice delete [PROFILE]
 ```
